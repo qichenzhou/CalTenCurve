@@ -1,6 +1,6 @@
 # CalTenCurve
 
-This matlab code is used to process stress-strain curve. It can calculate Young's modulus, strength, breaking strain and toughness.
+This MATLAB code is used to process stress-strain curve. It can calculate Young's modulus, strength, breaking strain and toughness.
 
 How to use it?  
 Please read the PDF documentation ‘How to use CalTenCurve’.
